@@ -15,5 +15,5 @@ setuptools.setup(
 
 # because this is a demo of Pluto, we add some popular packages to the global package env and precompile
 import os
-os.system('julia -e "import Pkg; Pkg.add([\\"Luxor\\", \\"TheNumberLine\\", \\"PlutoUI\\"]); Pkg.precompile()"')
-os.system('julia -e "import Pkg; Pkg.add([\\"DataFrames\\", \\"CSV\\", \\"Plots\\"]); Pkg.precompile()"')
+os.system('julia -e "import Pkg; Pkg.add([\\"GR\\", \\"MITgcmTools\\", \\"PlutoUI\\"]); Pkg.precompile()"')
+os.system('julia -e "import Pkg; Pkg.add([\\"DataFrames\\", \\"CSV\\", \\"ClimateModels\\"]); Pkg.precompile()"')
