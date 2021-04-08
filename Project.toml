@@ -1,5 +1,8 @@
 [deps]
+Luxor = "ae8d54c2-7ccd-5906-9d76-62fc9837b5bc"
 Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
+TheNumberLine = "d3dd9eff-7bfc-4540-8377-597257661861"
 
 [compat]
 julia = "1.5"
