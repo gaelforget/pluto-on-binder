@@ -10,5 +10,4 @@ This is an internal repository, the only purpose is to give a demo of `Forget_Ch
 4. Click `open`
 5. Play!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gaelforget/pluto-on-binder/gftest01?urlpath=pluto)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gaelforget/pluto-on-binder/gftest01?urlpath=pluto/open?url=https://raw.githubusercontent.com/JuliaPluto/PlutoCon2021-demos/main/Forget_Chapin-TheNumberLine.jl)
