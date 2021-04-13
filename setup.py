@@ -16,3 +16,8 @@ setuptools.setup(
 # because this is a demo of Pluto, we add some popular packages to the global package env and precompile
 import os
 os.system('julia -e "import Pkg; Pkg.add([\\"DataFrames\\", \\"CSV\\", \\"Plots\\"]); Pkg.precompile()"')
+
+# also precompile MITgcm exp used by default
+os.system('julia -e "using MITgcmTools; m=MITgcm_config(configuration=\\"advect_xz\\"); build(m)"')
+
+
