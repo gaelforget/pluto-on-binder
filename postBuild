@@ -1,0 +1,2 @@
+julia --project -e 'using MITgcmTools; m=MITgcm_config(configuration="advect_xz"); build(m)'
+
