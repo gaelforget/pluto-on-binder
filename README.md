@@ -1,6 +1,6 @@
 **To get started, just click on the launch binder button below.**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gaelforget/pluto-on-binder/ClimateModels?urlpath=pluto/open?url=https://raw.githubusercontent.com/gaelforget/MITgcmTools.jl/master/examples/MITgcm_worklow.jl)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gaelforget/pluto-on-binder/ClimateModels_20210730?urlpath=pluto/open?url=https://raw.githubusercontent.com/gaelforget/MITgcmTools.jl/master/examples/MITgcm_worklow.jl)
 
 ## Warning
 
@@ -12,7 +12,7 @@ What happens when you click on the launch binder button?
 
 It's equivalent to the following sequence:
 
-1. Open [this mybinder.org](https://mybinder.org/v2/gh/gaelforget/pluto-on-binder/ClimateModels?urlpath=pluto)
+1. Open [this mybinder.org](https://mybinder.org/v2/gh/gaelforget/pluto-on-binder/ClimateModels_20210730?urlpath=pluto)
 2. Copy [this notebook URL](https://raw.githubusercontent.com/gaelforget/MITgcmTools.jl/master/examples/MITgcm_worklow.jl)
 3. Paste in `Pluto` landing webpage
 4. Click `open`
